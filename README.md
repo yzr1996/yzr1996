@@ -9,7 +9,4 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="yzr1996's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Eric's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yzr1996&show_icons=true&hide_border=true" />
