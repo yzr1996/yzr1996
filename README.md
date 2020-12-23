@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <img alt="PNG" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width = 26px/>
-<img alt="JPG" src="www.iconspng.com/images/python-language-logo/python-language-logo.jpg" width = 26px/>
+<img alt="SVG" src="https://en.wikipedia.org/wiki/PostgreSQL#/media/File:Postgresql_elephant.svg" width = 26px/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
