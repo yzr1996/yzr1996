@@ -1,5 +1,5 @@
 ### Hi there, I'm Eric
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhenrui-yu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ericyuyzr)
 
 ## I'm a Husband, Father, Developer, and Data Scientist!!
 
